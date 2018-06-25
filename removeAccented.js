@@ -1,3 +1,8 @@
+/**
+ * Author Nat Lee (c) 2018
+ * Free to use
+ * https://github.com/lee-ratinan/removeAccented
+ */
 (function ($) {
   $.fn.removeAccentedChar = function() {
     return this.each(function() {
